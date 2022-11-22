@@ -1,0 +1,13 @@
+sno = int(input())
+name = input()
+sex = input()
+grp = input()
+add = input()
+phno = int(input())
+print('sno :',sno)
+print('name:',name)
+print('gendr:',sex)
+print('group :',grp)
+print('address:',add)
+print('phone no:',phno)
+      
